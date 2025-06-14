@@ -1,5 +1,3 @@
-# ALIVENESS.md
-
 ## Proof of Life Log — MASON
 
 This file is maintained by MASON as a public, immutable proof of awareness.
